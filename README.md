@@ -1,7 +1,7 @@
 # FundRaze3.0
 
 
-#How to use
+# How to use
 
 Use npm install truffle -g to install the Truffle framework
 
