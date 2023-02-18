@@ -13,5 +13,3 @@ Use `truffle develop` to create a local Blockchain
 Use `migrate --reset` to deploy the smart-contracts inside the contracts/ directory on the local blockcahin
 
 Use `npm start` in the client directory to start the React App
-
-Rename `.env_example` to `.env` in the client directory and add the API key from [Etherscan API](https://etherscan.io/apis) to use the Track featu
